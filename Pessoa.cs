@@ -10,7 +10,7 @@ namespace ClassesObjetos
             Nome = "Não informado";
             Idade = 0;
         }
-
+      
         public Pessoa(string nome, int idade)
         {
             Nome = nome;

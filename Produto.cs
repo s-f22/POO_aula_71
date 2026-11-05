@@ -4,6 +4,7 @@ namespace ClassesObjetos
     {
         public string? Nome { get; set; } // Getters e setters
         public decimal Preco { get; private set; }
+        public int Quantidade { get; set; }
 
         public void Exibir()
         {

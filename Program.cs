@@ -43,6 +43,14 @@ Console.WriteLine($"Nome: {pessoa1.Nome} - Idade: {pessoa1.Idade}");
 Pessoa pessoa2 = new Pessoa("Samuel", 20);
 Console.WriteLine($"Nome: {pessoa2.Nome} - Idade: {pessoa2.Idade}");
 
+// string nome = "Samuel";
+
+Produto p3 = new Produto
+{
+  Nome = "PS5",
+  Quantidade = 1
+};
+
 
 
 
